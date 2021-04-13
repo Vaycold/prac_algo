@@ -11,3 +11,4 @@ def solution(N, stages):
     result = sorted(result, key = lambda x : result[x], reverse=True)        
     return result
 
+test되는건가
