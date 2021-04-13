@@ -10,3 +10,4 @@ def solution(N, stages):
             length -= ct
     result = sorted(result, key = lambda x : result[x], reverse=True)        
     return result
+
