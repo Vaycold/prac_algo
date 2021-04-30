@@ -8,5 +8,5 @@
 
 ## Self Feedback
 
-string type의 replace method를 활용하여 해결하였다.
-어렵진 않은 문제였다.
+1이 될 때 까지 반복하기 때문에 while 문을 사용하였다.
+조건에 맞게끔 수식만 쓰면 되기 때문에 어려운 문제는 아니었다.
